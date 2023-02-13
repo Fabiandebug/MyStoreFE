@@ -46,7 +46,6 @@ On the same terminal, run the command
    ```
 ng serve
      
-This will start the server.
 
 Navigate to 
 http://localhost:4200/ on your browser
