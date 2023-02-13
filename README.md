@@ -5,6 +5,8 @@ MyStore is Angular application that allows users to view a list of available pro
 
 ## Project Instructions
 
+The app uses the data.json file that was provided.
+
 ## Dependencies 
 
 "dependencies": {
